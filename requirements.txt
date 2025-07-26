@@ -1,0 +1,6 @@
+Flask
+requests
+beautifulsoup4
+readability-lxml
+Flask-Caching
+gunicorn
